@@ -6,3 +6,4 @@ task_count = float(task_count)
 
 # Estimate weekly productivity
 weekly_tasks = task_count * 7
+print(f"If you keep this pace, you will complete about {weekly_tasks} tasks this week!")
